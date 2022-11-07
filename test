@@ -1,0 +1,4 @@
+// Por cada página en el libro, imprime la página a la consola
+por (la página del libro) {
+    consola.imprime(página);
+}
