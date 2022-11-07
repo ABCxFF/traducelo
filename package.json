@@ -1,0 +1,12 @@
+{
+    "name": "traducelo",
+    "bin": {
+        "traducelo": "traducelo.js"
+    },
+    "author": "ABCxFF",
+    "license": "MIT",
+    "dependencies": {
+        "acorn": "^8.8.1",
+        "colors": "^1.4.0"
+    }
+}
